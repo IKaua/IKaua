@@ -1,4 +1,4 @@
-###  Fala galera!  Sou o Icaro Kaua e vou marcar mais presença por aqui... Tamo junto!!
+###  Fala galera!  Me chamo Icaro Kaua, sou estudante de Engenharia de Software e vou postar minhas evoluções aqui. Vem comigo !
 
 - 🔭 I’m currently working em projetos front-end ...        
 - 🌱 I’m currently learning  javascript..
@@ -13,5 +13,5 @@
 ##
 
 <a href = "mailto:ikaua94@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/icaro-k-00043b249/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/ícaro-kauã-00043b249/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/icarokaua1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
